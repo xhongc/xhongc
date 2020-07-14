@@ -1,4 +1,4 @@
-### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xhongc)
+### Hi there 👋   You are ![visitors](https://visitor-badge.glitch.me/badge?page_id=xhongc)
 
 <!--
 **xhongc/xhongc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
