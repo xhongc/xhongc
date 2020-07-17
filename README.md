@@ -7,5 +7,3 @@
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 
 <img src="https://github-readme-stats.vercel.app/api?username=xhongc&show_icons=false">
-
-⭐️ From [xhongc](https://github.com/xhongc)
