@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning JavaScript，Golang
-- 💬 Ask me about Python3
+- 🌱 I’m currently learning JavaScript, Golang
+- 💬 Ask me about Python3, Django
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 
