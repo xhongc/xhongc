@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning JavaScript, Golang
-- 💬 Ask me about Python3, Django
+- 💬 Ask me about Python3, Django from qq number：408737515
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 
